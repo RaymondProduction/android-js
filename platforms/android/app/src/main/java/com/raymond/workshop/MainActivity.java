@@ -17,7 +17,7 @@
        under the License.
  */
 
-package com.yourname.workshop;
+package com.raymond.workshop;
 
 import android.os.Bundle;
 import org.apache.cordova.*;
